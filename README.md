@@ -79,8 +79,4 @@ NIHAL RESULT = 3, 4, 5
 STORE RESULT
 ```
 
----
 
-## 📜 License
-
-MIT License
