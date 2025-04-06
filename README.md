@@ -12,6 +12,7 @@ A simple compiler using **Flex** and **Bison** to parse and evaluate a custom in
   - Three-address code
   - Optimized instruction
   - Final assembly-like output
+  - Evaluated result for the given input
 - Includes a Makefile for easy building
 
 ---
